@@ -1,0 +1,1 @@
+SIMPLE is a short album created entirely from cosine waves and effects processors, which include downsamplers, distortions, convolutions, delays and reverbs. The piece is realized in Ableton Live with synthesis and effects patches created in Max4Live.
